@@ -1,0 +1,21 @@
+При запросе Ош город Ош отсутствует в ответе API - test FAILED
+При запросе кта город Актау есть в ответе API: [{'id': 196, 'name': 'Актау', 'code': 'aktau', 'country': {'name': 'Казахстан', 'code': 'kz'}}] - test PASSED
+При запросе обе город Актобе есть в ответе API: [{'id': 167, 'name': 'Актобе', 'code': 'aktobe', 'country': {'name': 'Казахстан', 'code': 'kz'}}] - test PASSED
+При запросе лма город Алматы есть в ответе API: [{'id': 67, 'name': 'Алматы', 'code': 'almaty', 'country': {'name': 'Казахстан', 'code': 'kz'}}] - test PASSED
+При запросе ишк город Бишкек есть в ответе API: [{'id': 112, 'name': 'Бишкек', 'code': 'bishkek', 'country': {'name': 'Кыргызстан', 'code': 'kg'}}] - test PASSED
+При запросе кав город Владикавказ есть в ответе API: [{'id': 114, 'name': 'Владикавказ', 'code': 'vladikavkaz', 'country': {'name': 'Россия', 'code': 'ru'}}] - test PASSED
+При запросе ток город Владивосток есть в ответе API: [{'id': 25, 'name': 'Владивосток', 'code': 'vladivostok', 'country': {'name': 'Россия', 'code': 'ru'}}] - test PASSED
+При запросе епр город Днепр есть в ответе API: [{'id': 105, 'name': 'Днепр', 'code': 'dnepropetrovsk', 'country': {'name': 'Украина', 'code': 'ua'}}] - test PASSED
+При запросе ояр город Красноярск есть в ответе API: [{'id': 7, 'name': 'Красноярск', 'code': 'krasnoyarsk', 'country': {'name': 'Россия', 'code': 'ru'}}] - test PASSED
+При запросе тог город Магнитогорск есть в ответе API: [{'id': 26, 'name': 'Магнитогорск', 'code': 'magnitogorsk', 'country': {'name': 'Россия', 'code': 'ru'}}] - test PASSED
+При запросе ква город Москва есть в ответе API: [{'id': 32, 'name': 'Москва', 'code': 'moscow', 'country': {'name': 'Россия', 'code': 'ru'}}] - test PASSED
+При запросе Ниж город Нижний Новгород есть в ответе API: [{'id': 19, 'name': 'Нижний Новгород', 'code': 'n_novgorod', 'country': {'name': 'Россия', 'code': 'ru'}}] - test PASSED
+При запросе сиб город Новосибирск есть в ответе API: [{'id': 1, 'name': 'Новосибирск', 'code': 'novosibirsk', 'country': {'name': 'Россия', 'code': 'ru'}}] - test PASSED
+При запросе мск город Омск есть в ответе API: [{'id': 2, 'name': 'Омск', 'code': 'omsk', 'country': {'name': 'Россия', 'code': 'ru'}}, {'id': 3, 'name': 'Томск', 'code': 'tomsk', 'country': {'name': 'Россия', 'code': 'ru'}}] - test PASSED
+При запросе рёл город Орёл отсутствует в ответе API: [] - test FAILED
+При запросе кий город Петропавловск-Камчатский есть в ответе API: [{'id': 95, 'name': 'Петропавловск-Камчатский', 'code': 'p_kamchatskiy', 'country': {'name': 'Россия', 'code': 'ru'}}] - test PASSED
+При запросе ург город Санкт-Петербург есть в ответе API: [{'id': 38, 'name': 'Санкт-Петербург', 'code': 'spb', 'country': {'name': 'Россия', 'code': 'ru'}}] - test PASSED
+При запросе том город Томск есть в ответе API: [{'id': 3, 'name': 'Томск', 'code': 'tomsk', 'country': {'name': 'Россия', 'code': 'ru'}}] - test PASSED
+При запросе Уст город Усть-Каменогорск есть в ответе API: [{'id': 91, 'name': 'Усть-Каменогорск', 'code': 'ustkam', 'country': {'name': 'Казахстан', 'code': 'kz'}}] - test PASSED
+При запросе Уфа город Уфа есть в ответе API: [{'id': 17, 'name': 'Уфа', 'code': 'ufa', 'country': {'name': 'Россия', 'code': 'ru'}}] - test PASSED
+При запросе рел город Орел отсутствует в ответе API: [{'id': 71, 'name': 'Орёл', 'code': 'orel', 'country': {'name': 'Россия', 'code': 'ru'}}] - test FAILED
